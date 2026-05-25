@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfetch",
+        "uuid": 1937504,
+        "checksum": "jofaag"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
